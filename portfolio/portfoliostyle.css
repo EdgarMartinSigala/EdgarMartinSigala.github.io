@@ -1,0 +1,33 @@
+body {
+	font-family: "Times New Roman", Times, serif;
+	color: #D18F4A;
+}
+table {
+	border: 5px solid black;
+}
+html {
+	background-image: url("images/twister.jpg");
+}
+p { 
+	font-size: 30px;
+	color: green;
+	text-align: center;
+	text-indent: 50px;
+	letter-spacing: 1px;
+	word-spacing: 5px;
+	font-weight: bold;
+}
+img {
+	border: 5px solid red;
+	margin: 50px 750px 50px;
+}
+ul {
+	text-decoration: none;
+	font-size: 30px;
+	border: 3px dotted red;
+}
+h1 {
+	font-family: "Arial Black",Arial, sans-serif;
+	font-size: 50px;
+	text-align: center;
+}
