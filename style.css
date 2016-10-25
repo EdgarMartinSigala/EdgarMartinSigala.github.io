@@ -6,11 +6,11 @@ table {
 	border: 5px solid black;
 }
 html {
-	background-image: url("images/dragon.jpg");
+	background-color: #808080;
 }
 p { 
 	font-size: 30px;
-	color: green;
+	color: #FFFFFF;
 	text-align: center;
 	text-indent: 50px;
 	letter-spacing: 1px;
@@ -18,16 +18,38 @@ p {
 	font-weight: bold;
 }
 img {
-	border: 5px solid red;
-	margin: 50px 750px 50px;
+	display: block;
+	margin: auto;
+	width: 40%;
 }
-ul {
+nav {
 	text-decoration: none;
 	font-size: 30px;
-	border: 3px dotted red;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	background-color: #333;
 }
 h1 {
 	font-family: "Arial Black",Arial, sans-serif;
 	font-size: 50px;
 	text-align: center;
+	color: #000000;
+}
+li {
+	float: left;
+}
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color: #111;
+}
+table {
+	border: 5px solid black;
 }

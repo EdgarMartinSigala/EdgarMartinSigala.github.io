@@ -6,11 +6,11 @@ table {
 	border: 5px solid black;
 }
 html {
-	background-image: url("images/twister.jpg");
+	background-color: #808080;
 }
 p { 
 	font-size: 30px;
-	color: green;
+	color: #FFFFFF;
 	text-align: center;
 	text-indent: 50px;
 	letter-spacing: 1px;
@@ -48,4 +48,5 @@ h1 {
 	font-family: "Arial Black",Arial, sans-serif;
 	font-size: 50px;
 	text-align: center;
+	color: #000000;
 }
